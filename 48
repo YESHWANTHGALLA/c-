@@ -26,4 +26,5 @@ int main()
 	std::cout <<"enter the value of n=";
 	std::cin >>n;
 	std::cout <<"factorial of "<<n<<"="<<fact(n);	
+       return 0;
 }
