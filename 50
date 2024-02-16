@@ -18,4 +18,5 @@ void reverse(string a, string b)
         b += a[n-1-i] ; 
     }
     cout << "Reversed string: " << b << endl; 
+return 0;
 }
