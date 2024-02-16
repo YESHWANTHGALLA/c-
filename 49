@@ -29,4 +29,5 @@ void prime(int n)
     {
         cout << "not a prime number";
     }
+return 0;
 }
