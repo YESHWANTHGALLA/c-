@@ -1,6 +1,4 @@
 #include<iostream>
-
-
 int fact(int n)
 {
 	int i,fact;
@@ -10,7 +8,6 @@ int fact(int n)
 	}
 	else
 	{
-
 	for (i=1;i<=5;i++)
 	{
 		fact=fact*i;
