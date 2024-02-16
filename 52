@@ -18,4 +18,5 @@ int main()
 	cout <<"enter the values of two numbers=";
 	cin >>a >>b;
 	cout <<"gcd of two numbers="<< gcd(a,b);
+return 0;
 }
